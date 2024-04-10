@@ -5,5 +5,5 @@ pessoa. Atribua o resultado à variável podeVotar.
 */
 
 let idade = 15;
-let podeVotar = idade >= 16 ? 'pode votar' : 'Nnaoo pode votar';
-console.log(podeVotar);
+let podevota = idade >= 16 ? "Pode vota" : "Não pode vota";
+console.log(podevota);
